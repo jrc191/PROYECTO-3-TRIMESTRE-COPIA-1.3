@@ -1,2 +1,2 @@
 # PROYECTO-3-TRIMESTRE-COPIA-1.3
-Copia
+Proyecto 3 TRIMESTRE usando MVC y DAO.
